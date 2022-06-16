@@ -106,6 +106,12 @@ response = client.create_labeling_job(
 
 ---
 
+## Screenshots
+
+![](https://www.evernote.com/l/AAGcVTijrCJEeJouTodX_sABPocEa2exypgB/image.png)
+
+---
+
 ## Resources
 
 * [Use Amazon SageMaker Ground Truth to Label Data](https://docs.aws.amazon.com/sagemaker/latest/dg/sms.html)
